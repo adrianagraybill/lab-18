@@ -1,0 +1,31 @@
+{
+  "name": "lab-18",
+  "version": "1.0.0",
+  "description": "### Author: Adriana with help from Jonny",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianagraybill/lab-18.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianagraybill/lab-18/issues"
+  },
+  "homepage": "https://github.com/adrianagraybill/lab-18#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "fs": "0.0.1-security",
+    "hacker": "^1.2.0",
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.1.7",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0",
+    "util": "^0.12.1"
+  }
+}
