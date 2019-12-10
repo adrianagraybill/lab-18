@@ -1,4 +1,4 @@
-# LAB - 18 Socket.io
+# socket.io
 
 ### Author: Adriana with help from Jonny
 
