@@ -20,7 +20,7 @@
   "dependencies": {
     "faker": "^4.1.0",
     "fs": "0.0.1-security",
-    "hacker": "^1.2.0",
+    "hacker": "^3.0.1",
     "prompt": "^1.0.0",
     "prompt-sync": "^4.1.7",
     "readline-sync": "^1.4.10",
